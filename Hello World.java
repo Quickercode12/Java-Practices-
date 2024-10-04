@@ -8,6 +8,5 @@ class HelloWorld {
 
         System.out.println("My love is just stay in coding");
 
-
     }
 }
